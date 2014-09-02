@@ -1,7 +1,7 @@
 <?php
 
 /**
- * @file
+ * @file testing git 123
  * Drupal site-specific configuration file.
  *
  * IMPORTANT NOTE:
