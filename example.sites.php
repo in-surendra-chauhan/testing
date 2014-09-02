@@ -1,7 +1,9 @@
 <?php
 
 /**
- * @file
+ * @file my example testagain
+* Drupal 7 hook implementaion
+
  * Configuration file for Drupal's multi-site directory aliasing feature.
  *
  * This file allows you to define a set of aliases that map hostnames, ports, and
